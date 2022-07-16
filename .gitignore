@@ -1,0 +1,15 @@
+/Proyek Akhir
+/Slides
+__pycache__/
+.idea/
+.vscode/
+env/
+Lab/Lab 1/Citra Lab 1
+Lab/Lab 2/Lab 2 - Images
+Lab/Lab 4/Citra Tutorial Lab 4
+Lab/Lab 5/Tutorial Lab 5
+Lab/Lab 6/Lab 6 Images
+*.pptx
+*.pdf
+*.zip
+*.code*
